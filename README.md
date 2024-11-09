@@ -24,7 +24,9 @@
 
 ### ✍️ Random Dev Quote
 <div align="center">
+
 ![Random Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
 </div>
 
 
