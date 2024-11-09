@@ -11,17 +11,9 @@
 
 
 # 📊 GitHub Stats:
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=kelumkp&theme=merko&hide_border=false&include_all_commits=false&count_private=false" width="400" height="200" alt="GitHub Stats" /> <br/>
-
-  <img src="https://streak-stats.demolab.com?user=kelumkp&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" width="400" height="200" alt="Streak Graph" /> <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelumkp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="400" height="200" alt="Top Languages" />
-  
-</div>
-
+![](https://github-readme-stats.vercel.app/api?username=kelumkp&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kelumkp&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kelumkp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ## 🏆 GitHub Trophies
@@ -30,6 +22,7 @@
 
 
 ### ✍️ Random Dev Quote
+
 <div align="center">
 
 ![Random Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
