@@ -14,9 +14,13 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-  ![](https://github-readme-stats.vercel.app/api?username=kelumkp&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-  <img src="https://streak-stats.demolab.com?user=kelumkp&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /> <br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kelumkp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kelumkp&theme=merko&hide_border=false&include_all_commits=false&count_private=false) <br/>
+
+  <img src="https://streak-stats.demolab.com?user=kelumkp&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" /> <br/>
+
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kelumkp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  
 </div>
 
 
