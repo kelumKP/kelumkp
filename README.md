@@ -1,8 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on Cool Projects<br>🌱 I’m currently learning GitHub Actions<br>👯 I’m looking to collaborate on Startup to Build Something Special<br>🤔 I’m looking for help with find a horizon<br>💬 Ask me about how to try to stay positive<br>📫 How to reach me: kelumkp[at]gmail.com<br>😄 Pronouns: He/His/Him<br>⚡ Fun fact: I have cool collection of diecast airplanes
+🔭 I’m currently working on Cool Projects<br>🌱 I’m currently learning GitHub Actions<br>👯 I’m looking to collaborate on Startup to Build Something Special<br>🤔 I’m looking for help with find a horizon<br>💬 Ask me about how to try to stay positive<br>📫 How to reach me: kelumkp[at]gmail.com<br>😄 Pronouns: He/His/Him<br>⚡ Fun fact: I have cool collection of diecast model airplanes
 
----
-[![](https://visitcount.itsvg.in/api?id=kelumkp&icon=6&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kelumkp) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/kelumkp) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/2278089) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@kelumkp) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kelumkp) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@kelumandkokila) 
@@ -13,27 +11,21 @@
 
 # 📊 GitHub Stats:
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kelumkp&theme=merko&hide_border=false&include_all_commits=false&count_private=false) <br/>
+<img src="https://streak-stats.demolab.com?user=kelumkp&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" /> <br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kelumkp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kelumkp&theme=merko&hide_border=false&include_all_commits=false&count_private=false) <br/>
-
-  <img src="https://streak-stats.demolab.com?user=kelumkp&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" /> <br/>
-
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kelumkp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-  
-</div>
 
 
 ## 🏆 GitHub Trophies
-<div align="center">
+
 ![](https://github-profile-trophy.vercel.app/?username=kelumkp&theme=dark&no-frame=true&no-bg=false&margin-w=4)
+
 
 ### ✍️ Random Dev Quote
 <div align="center">
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 </div>
-
-
 
 
 
