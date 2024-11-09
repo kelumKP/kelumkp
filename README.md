@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there, I'm Kelum 👋
 
-<!--
-**kelumKP/kelumkp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Level 01 Simple Bio -->
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Cool Projects  
+- 🌱 I’m currently learning GitHub Actions
+- 👯 I’m looking to collaborate on Startup to Build Something Special
+- 🤔 I’m looking for help with find a horizon
+- 💬 Ask me about how to try to stay positive
+- 📫 How to reach me: kelumkp[at]gmail.com
+- 😄 Pronouns: He/His/Him
+- ⚡ Fun fact: I have cool collection of diecast airplanes
+
+
+![Kelum's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelumkp&show_icons=true&theme=merko)
