@@ -11,9 +11,14 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kelumkp&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kelumkp&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kelumkp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- GitHub Stats Card -->
+![](https://github-readme-stats.vercel.app/api?username=kelumkp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=400)
+
+<!-- GitHub Streak Stats -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=kelumkp&theme=merko&hide_border=false&card_width=400)
+
+<!-- Top Languages Card -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kelumkp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=400)
 
 
 ## 🏆 GitHub Trophies
