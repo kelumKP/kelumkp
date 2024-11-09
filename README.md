@@ -15,5 +15,3 @@
 
 ![Kelum's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelumkp&show_icons=true&theme=merko)
 
-
-[![Kelum's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelumkp)](https://github.com/kelumkp/github-readme-stats)
