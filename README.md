@@ -22,9 +22,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=kelumkp&theme=dark&no-frame=true&no-bg=false&margin-w=4)
 
 
-### ✍️ Random Dev Quote
-
-![Random Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+### 🏅 Certification(s)
 
 
 
