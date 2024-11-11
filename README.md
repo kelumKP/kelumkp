@@ -24,6 +24,7 @@
 
 ### 🏅 Certification(s)
 
-![api](/images/az-900-badge.svg)
+[<img alt="AZ-900" height="40px" width="40px" src="/images/az-900-badge.svg" />](https://learn.microsoft.com/api/credentials/share/en-us/KelumKP/9176A10EE66310FA?sharingId=2EB570EE9F50967F)
+
 
 
