@@ -24,8 +24,7 @@
 
 ### 🏅 Certification(s)
 <!-- AZ - 900 Badge -->
-<a href="https://learn.microsoft.com/api/credentials/share/en-us/KelumKP/9176A10EE66310FA?sharingId=2EB570EE9F50967F" target="_blank">
-    <img alt="AZ-900" height="100px" width="100px" src="/images/az-900-badge.svg" />
-</a>
+[<img alt="AZ-900" height="100px" width="100px" src="/images/az-900-badge.svg" />](https://learn.microsoft.com/api/credentials/share/en-us/KelumKP/9176A10EE66310FA?sharingId=2EB570EE9F50967F)
+
 
 
