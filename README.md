@@ -24,5 +24,6 @@
 
 ### 🏅 Certification(s)
 
+![api](/images/az-900-badge.svg)
 
 
