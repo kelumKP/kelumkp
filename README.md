@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kelumkp) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/kelumkp) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/2278089) [![HackerRank](https://img.shields.io/badge/-Hackerrank-00EA64?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/kelumkp) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kelumkp) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@kelumandkokila) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kelumkp) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/kelumkp) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/2278089) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kelumkp) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@kelumandkokila) 
 
 
 # 💻 Tech Stack:
@@ -24,7 +24,9 @@
 
 ### 🏅 Certification(s)
 <!-- AZ - 900 Badge -->
-[<img alt="AZ-900" height="100px" width="100px" src="/images/az-900-badge.svg" />](https://learn.microsoft.com/api/credentials/share/en-us/KelumKP/9176A10EE66310FA?sharingId=2EB570EE9F50967F)
-
+<div style="position: relative; display: inline-block; width: 100px; height: 100px;">
+    <img src="/images/az-900-badge.svg" alt="AZ-900 Badge" width="100px" height="100px" />
+    <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(255,255,255,0);"></div>
+</div>
 
 
