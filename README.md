@@ -2,8 +2,8 @@
 🔭 I’m currently working on Cool Projects<br>🌱 I’m currently learning GitHub Actions<br>👯 I’m looking to collaborate on Startup to Build Something Special<br>🤔 I’m looking for help with find a horizon<br>💬 Ask me about how to try to stay positive<br>📫 How to reach me: kelumkp[at]gmail.com<br>😄 Pronouns: He/His/Him<br>⚡ Fun fact: I have cool collection of diecast model airplanes
 
 
-## 🌐 Socials:
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kelumkp)  [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/kelumkp)  [![StackOverflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/2278089)  [![HackerRank](https://img.shields.io/badge/-Hackerrank-00EA64?style=flat&amp;logo=HackerRank&amp;logoColor=white)](https://www.hackerrank.com/profile/kelumkp)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kelumkp)
+## 🌐 URLs:
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kelumkp)  [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/kelumkp)  [![StackOverflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/2278089)  [![HackerRank](https://img.shields.io/badge/-Hackerrank-00EA64?style=flat&amp;logo=HackerRank&amp;logoColor=white)](https://www.hackerrank.com/profile/kelumkp)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kelumkp) [![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=flat&logo=wordpress&logoColor=white)](https://kelums.wordpress.com/)
 
 
 # 💻 Tech Stack:
