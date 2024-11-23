@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 💫 About Me:
 🔭 I’m currently working on Cool Projects<br>🌱 I’m currently learning GitHub Actions<br>👯 I’m looking to collaborate on Startup to Build Something Special<br>🤔 I’m looking for help with find a horizon<br>💬 Ask me about how to try to stay positive<br>📫 How to reach me: kelumkp[at]gmail.com<br>😄 Pronouns: He/His/Him<br>⚡ Fun fact: I have cool collection of diecast model airplanes
 
 
@@ -6,7 +6,7 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kelumkp)  [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/kelumkp)  [![StackOverflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/2278089)  [![HackerRank](https://img.shields.io/badge/-Hackerrank-00EA64?style=flat&amp;logo=HackerRank&amp;logoColor=white)](https://www.hackerrank.com/profile/kelumkp)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kelumkp) [![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=flat&logo=wordpress&logoColor=white)](https://kelums.wordpress.com/)
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 #### Backend
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -78,7 +78,7 @@
 ![Joomla](https://img.shields.io/badge/joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white)
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=kelumkp&theme=merko&hide_border=false&include_all_commits=false&count_private=false&card_width=500)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kelumkp&theme=dark&hide_border=false&card_width=500)<br/>
@@ -90,7 +90,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=kelumkp&theme=dark&no-frame=true&no-bg=false&margin-w=4)
 
 
-### 🏅 Certification(s)
+## 🏅 Certification(s)
 <!-- AZ - 900 Badge -->
 [<img alt="AZ-900" height="100px" width="100px" src="/images/az-900-badge.svg" />](https://learn.microsoft.com/api/credentials/share/en-us/KelumKP/9176A10EE66310FA?sharingId=2EB570EE9F50967F)
 
