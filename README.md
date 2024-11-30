@@ -1,5 +1,5 @@
 ## 💫 About Me:
-🔭 I’m currently working on Cool Projects<br>🌱 I’m currently learning GitHub Actions<br>👯 I’m looking to collaborate on Startup to Build Something Special<br>🤔 I’m looking for help with find a horizon<br>💬 Ask me about how to try to stay positive<br>📫 How to reach me: kelumkp[at]gmail.com<br>😄 Pronouns: He/His/Him<br>⚡ Fun fact: I have cool collection of diecast model airplanes
+🔭 I’m currently working on Cool Projects<br>🌱 I’m extending my knowledge on MongoDB<br>👯 I’m looking to collaborate on Startup to Build Something Special<br>🤔 I’m looking for help with find a horizon<br>💬 Ask me about how to try to stay positive<br>📫 How to reach me: kelumkp[at]gmail.com<br>😄 Pronouns: He/His/Him<br>⚡ Fun fact: I have cool collection of diecast model airplanes
 
 
 ## 🌐 URLs:
