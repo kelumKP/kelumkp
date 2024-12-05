@@ -94,5 +94,7 @@
 <!-- AZ - 900 Badge -->
 [<img alt="AZ-900" height="100px" width="100px" src="/images/az-900-badge.svg" />](https://learn.microsoft.com/api/credentials/share/en-us/KelumKP/9176A10EE66310FA?sharingId=2EB570EE9F50967F)
 
+<!-- Apollo Graph Developer - Badge -->
+[<img alt="AGDA" height="100px" width="100px" src="/images/Apollo_Graph_Developer-Associate_Certification.svg" />](https://www.apollographql.com/tutorials/certifications/5ebe1831-6e44-4c55-8541-5be32e9bbe42)
 
 
