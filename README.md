@@ -102,6 +102,10 @@
   <a href="https://www.apollographql.com/tutorials/certifications/5ebe1831-6e44-4c55-8541-5be32e9bbe42">
     <img alt="AGDA" height="100px" width="100px" src="/images/Apollo_Graph_Developer-Associate_Certification.svg" />
   </a>
+  <!-- Generative AI Fundamentals - Badge -->
+  <a href="https://credentials.databricks.com/3698dc48-135a-4cca-a773-091fd6db1a09#acc.YBStpU1T">
+    <img alt="GAIF" height="100px" width="100px" src="/images/GenAI_Fundamentals_Databricks.png" />
+  </a>
 </div>
 
 
